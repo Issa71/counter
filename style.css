@@ -1,0 +1,32 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#negativeFiveBtn{
+
+    font-size: 30px;
+}
+
+#negativeOneBtn{
+    font-size: 30px;
+}
+
+#resetBtn{
+    font-size: 30px;
+}
+
+#oneBtn{
+    font-size: 30px;
+}
+#fiveBtn{
+    font-size: 30px;
+}
+
+div {
+    border: 2px solid; 
+    text-align:center;
+    height: 300px;
+    width: 300px;
+}
